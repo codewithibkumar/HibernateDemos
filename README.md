@@ -4,12 +4,11 @@
 Hibernate is an ORM (object relation mapping) tool.
 It is used to map object into relation (table).
 
-# Hibernate Configuration
+## Hibernate Configuration
 
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE hibernate-configuration PUBLIC
-        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
-        "http://hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-configuration-3.0.dtd">
         
 <hibernate-configuration>
     <session-factory>
