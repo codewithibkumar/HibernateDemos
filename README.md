@@ -19,7 +19,7 @@ It is used to map object into relation (table).
         <property name="hibernate.connection.username">root</property>
         <property name="hibernate.connection.password">pass</property>
         <property name="hibernate.connection.pool_size">1</property>
-                <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.show_sql">true</property>
         <property name="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</property>
         <property name="hbm2ddl.auto">create</property> 
 
