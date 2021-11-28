@@ -24,6 +24,5 @@ It is used to map object into relation (table).
         <property name="hbm2ddl.auto">create</property> 
 
 	<mapping class="com.hibernate.Student"></mapping>
-        
     </session-factory>
 </hibernate-configuration>
